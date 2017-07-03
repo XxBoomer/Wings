@@ -1,7 +1,7 @@
 src/Wings/CMD/
 <?php
 
-namespace ASCiiText;
+namespace Wings;
 
 use pocketmine\event\Listener;
 
